@@ -7,3 +7,9 @@ var tuitionDeposit = 1200
 var depositPaid = true
 var interviewCompleted = true
 var firstSessionCompleted = true
+var email = "hellokasandra@gmail.com"
+var name = "Kassie"
+var country = "America"
+console.log(email)
+console.log(country)
+console.log(tuitionDeposit)
