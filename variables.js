@@ -4,3 +4,6 @@ var country = "USA"
 var age = 24
 var pets = 3
 var tuitionDeposit = 1200
+var depositPaid = true
+var interviewCompleted = true
+var firstSessionCompleted = true
